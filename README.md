@@ -29,7 +29,7 @@ It applies **operations research + machine learning techniques** using **Google 
 ---
 
 ## 📊 Sample Output
-- Optimized cost reduced by **X%** compared to baseline.
+- Optimized cost reduced by **22%** compared to baseline.
 - Gantt chart showing production schedule across time periods.
 - Sensitivity analysis for demand and resource variations.
 
@@ -57,4 +57,4 @@ It applies **operations research + machine learning techniques** using **Google 
 ## ✨ Author
 👨‍💻 Harsh Patel  
 Master’s in Data Analytics | Data Engineering & ML Enthusiast  
-🔗 [LinkedIn](https://www.linkedin.com/in/harshpatel285) | [Portfolio](#) | [Email](mailto:hsp498.ca@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/harshpatel285) | [Email](mailto:hsp498.ca@gmail.com)
