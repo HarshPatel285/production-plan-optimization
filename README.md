@@ -42,11 +42,6 @@ It applies **operations research + machine learning techniques** using **Google 
 
 ---
 
-## 🖼️ Screenshots
-(Add Gantt chart and cost-comparison plots here)
-
----
-
 ## 🔮 Future Improvements
 - Add support for stochastic demand scenarios.
 - Incorporate multi-objective optimization (cost + time + energy efficiency).
